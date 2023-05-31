@@ -17,7 +17,7 @@
         "illuminate/filesystem": "^v10.13.0",
         "illuminate/support": "^v10.13.0",
         "fakerphp/faker": "^v1.22.0",
-        "bordoni/phpass": "0.3.6",
+        "bordoni/phpass": "0.3.4",
         "thunderer/shortcode": "^v0.7.5"
     },
     "require-dev": {
